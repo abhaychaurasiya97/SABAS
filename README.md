@@ -11,7 +11,7 @@ Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
 
 
 
-#open console and type
+# open console and type
 	sabas -h or --help
 	 command -option [filename] [pattern] [new_string]
 
