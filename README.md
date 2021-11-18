@@ -17,7 +17,7 @@ Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
 
 	Option 		 Description
 
--->	default		Search all the occurence of pattern in text file
+-->\t	default		Search all the occurence of pattern in text file
 #
 -->	-r		replaces all the occurence of pattern in text file with new_string
 #
