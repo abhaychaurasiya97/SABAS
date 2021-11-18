@@ -1,7 +1,7 @@
 # SABAS
 Play with text and applaud us by saying "SABAS".
-
 Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
+Its operations are Search ,Delete(All), Replace(All), Delete and Replace Multiple word of same occurence of pattern according to index
 # Time Complexity:
   O(m+n)
   n-length of pattern
