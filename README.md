@@ -2,7 +2,7 @@
 Play with text and applaud us by saying "SABAS".
 
 Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
-#Time Complexity:
+# Time Complexity:
   O(m+n)
   n-length of pattern
   m-length of text
@@ -18,10 +18,13 @@ Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
 	Option 		 Description
 
 -->	default		Search all the occurence of pattern in text file
-
+#
 -->	-r		replaces all the occurence of pattern in text file with new_string
+#
 	 or --replace
-	new_string is for only replacement for any other operation leave it blank 
+#
+ 	new_string is for only replacement for any other operation leave it blank 
+#
 -->	-rm		replaces multiple occurence of pattern with specified index in text file with new_string
 
 	 or --replace-multiple
