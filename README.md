@@ -14,7 +14,8 @@ Its search method is based on KMP (Knuth-Morris-Pratt) Algorithm.
 # open console and type
 	sabas -h or --help
 	 command -option [filename] [pattern] [new_string]
-
+		new_string is only for replacement leave it blank if not needed.
+	
 	Option 		 Description
 #
 	-->	default		Search all the occurence of pattern in text file
